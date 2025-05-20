@@ -29,15 +29,4 @@ A simple **content-based movie recommendation system** built using **Python** an
 
 ---
 
-## 📦 How to Run
 
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/movie-recommendation-app.git
-cd movie-recommendation-app
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Streamlit app
-streamlit run app.py
